@@ -1,0 +1,15 @@
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catchButton.Form1.resources
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.csproj.GenerateResource.cache
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.GeneratedMSBuildEditorConfig.editorconfig
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.AssemblyInfoInputs.cache
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.AssemblyInfo.cs
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.csproj.CoreCompileInputs.cache
+D:\!itstep\c-\windows forms\catch_button\catch_button\bin\Debug\netcoreapp3.1\catch_button.exe
+D:\!itstep\c-\windows forms\catch_button\catch_button\bin\Debug\netcoreapp3.1\catch_button.deps.json
+D:\!itstep\c-\windows forms\catch_button\catch_button\bin\Debug\netcoreapp3.1\catch_button.runtimeconfig.json
+D:\!itstep\c-\windows forms\catch_button\catch_button\bin\Debug\netcoreapp3.1\catch_button.runtimeconfig.dev.json
+D:\!itstep\c-\windows forms\catch_button\catch_button\bin\Debug\netcoreapp3.1\catch_button.dll
+D:\!itstep\c-\windows forms\catch_button\catch_button\bin\Debug\netcoreapp3.1\catch_button.pdb
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.dll
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.pdb
+D:\!itstep\c-\windows forms\catch_button\catch_button\obj\Debug\netcoreapp3.1\catch_button.genruntimeconfig.cache

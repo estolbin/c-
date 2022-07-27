@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBWb2azpCe4V+58uCUfvQux+R+Em4woiIeZBUX8mU7ojrCqFBwZWElQ4nPoIDmEkCaboYsI5NgCUbIjkX4t/DA==",
+  "success": true,
+  "projectFilePath": "D:\\!itstep\\c-\\windows forms\\catch_button\\catch_button\\catch_button.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
