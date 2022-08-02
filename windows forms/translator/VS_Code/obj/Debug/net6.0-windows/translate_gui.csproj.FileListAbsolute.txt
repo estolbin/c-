@@ -1,0 +1,15 @@
+D:\00\translate_gui\bin\Debug\net6.0-windows\translate_gui.exe
+D:\00\translate_gui\bin\Debug\net6.0-windows\translate_gui.deps.json
+D:\00\translate_gui\bin\Debug\net6.0-windows\translate_gui.runtimeconfig.json
+D:\00\translate_gui\bin\Debug\net6.0-windows\translate_gui.dll
+D:\00\translate_gui\bin\Debug\net6.0-windows\translate_gui.pdb
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.csproj.AssemblyReference.cache
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.GeneratedMSBuildEditorConfig.editorconfig
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.AssemblyInfoInputs.cache
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.AssemblyInfo.cs
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.csproj.CoreCompileInputs.cache
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.dll
+D:\00\translate_gui\obj\Debug\net6.0-windows\refint\translate_gui.dll
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.pdb
+D:\00\translate_gui\obj\Debug\net6.0-windows\translate_gui.genruntimeconfig.cache
+D:\00\translate_gui\obj\Debug\net6.0-windows\ref\translate_gui.dll
