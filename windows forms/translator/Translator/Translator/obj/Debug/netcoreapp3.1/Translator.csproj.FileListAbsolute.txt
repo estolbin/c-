@@ -1,0 +1,16 @@
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.csproj.AssemblyReference.cache
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\translate_gui.Form1.resources
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.csproj.GenerateResource.cache
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.AssemblyInfoInputs.cache
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.AssemblyInfo.cs
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.csproj.CoreCompileInputs.cache
+D:\!itstep\c-\windows forms\translator\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.exe
+D:\!itstep\c-\windows forms\translator\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.deps.json
+D:\!itstep\c-\windows forms\translator\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.runtimeconfig.json
+D:\!itstep\c-\windows forms\translator\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.runtimeconfig.dev.json
+D:\!itstep\c-\windows forms\translator\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.dll
+D:\!itstep\c-\windows forms\translator\Translator\Translator\bin\Debug\netcoreapp3.1\Translator.pdb
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.dll
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.pdb
+D:\!itstep\c-\windows forms\translator\Translator\Translator\obj\Debug\netcoreapp3.1\Translator.genruntimeconfig.cache

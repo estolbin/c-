@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHjXJ2kvNaS2DnCQqsYyGkofmrxrL03Uqwde+Hklr5XLeXmMtmBew6eWptX0Yw1aCKe/6QZ8W7IVe45jei65DA==",
+  "success": true,
+  "projectFilePath": "D:\\!itstep\\c-\\windows forms\\translator\\Translator\\Translator\\Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
